@@ -1,0 +1,8 @@
+/build
+/dist
+/*.egg-info
+*.pyc
+*.log
+.*.swp
+pip-log.txt
+.DS_Store
